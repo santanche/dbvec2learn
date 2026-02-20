@@ -16,6 +16,8 @@ This repository demonstrates:
 ```bash
 docker build -t medical-db .
 docker run -p 8888:8888 -v $(pwd):/app medical-db
+```
 
 ## Run with Binder
-[dbvec2learn on Binder](https://mybinder.org/v2/gh/santanche/dbvec2learn/main)
+
+* [dbvec2learn on Binder](https://mybinder.org/v2/gh/santanche/dbvec2learn/main)
