@@ -1,0 +1,6 @@
+duckdb
+pandas
+numpy
+sentence-transformers
+scikit-learn
+jupyter
