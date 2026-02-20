@@ -6,11 +6,13 @@ jupyter
 # duckdb
 duckdb
 
-# vector db
-sentence-transformers
+# tfidf
 scikit-learn
 
-# embeddings
-torch
-transformers
-tqdm
+# vector db (disabled for performance reasons)
+## sentence-transformers
+
+# embeddings db (disabled for performance reasons)
+## torch
+## transformers
+## tqdm

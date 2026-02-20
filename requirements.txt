@@ -1,6 +1,18 @@
-duckdb
+# common
 pandas
 numpy
-sentence-transformers
-scikit-learn
 jupyter
+
+# duckdb
+duckdb
+
+# tfidf
+scikit-learn
+
+# vector db
+sentence-transformers
+
+# embeddings db
+torch
+transformers
+tqdm
