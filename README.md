@@ -21,4 +21,4 @@ docker run -p 8888:8888 -v $(pwd):/app medical-db
 ## Run with Binder
 
 * Last available version:
-  [![launch @ mybinder.org][badge-jupyterlab-mybinder-org]](https://mybinder.org/v2/gh/santanche/dbvec2learn/main)
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/santanche/dbvec2learn/main)
