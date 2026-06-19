@@ -9,10 +9,10 @@ duckdb
 # tfidf
 scikit-learn
 
-# vector db (disabled for performance reasons)
-## sentence-transformers
+# vector db
+sentence-transformers
 
-# embeddings db (disabled for performance reasons)
-## torch
-## transformers
-## tqdm
+# embeddings db
+torch
+transformers
+tqdm
